@@ -1,0 +1,18 @@
+FACULTY
+Betsy|Wang|EE|betsy.wang@hotmail.com|East
+STUDENT
+Len|Posner|CA|len.posner@yahoo.com|90 west|2020|Math|LA|Computer|Science|CPRG100|
+FACULTY
+Peter|Yan|CC|peter.yan@hotmail.com|East
+STUDENT
+Zula|Opie|MM|zula.opie@yahoo.com|90 west|2020|CPRG100|CPRG201|CPRG200|
+FACULTY
+Keter|Kong|ME|keter.kong@hotmail.com|East
+STUDENT
+Beata|Vandyne|MM|beata.vandyne@yahoo.com|90 west|2020|PROG216|LA|Computer|
+STUDENT
+Brook|Li|SC|Brook.li@yahoo.com|90 west|2020|Math|LA|Computer|
+STUDENT
+Beata|Strang|MM|beata.strang@yahoo.com|90 west|2020|Math|LA|SELL115|CPRG100|
+FACULTY
+Fiona|Kong|EE|fiona.kong@hotmail.com|East

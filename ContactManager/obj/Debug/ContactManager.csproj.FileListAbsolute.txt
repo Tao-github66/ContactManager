@@ -1,0 +1,14 @@
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.contactManagerMainForm.resources
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.Cache
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.AddEditStudentDialog.resources
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.AddEditFacultyDialog.resources
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.SearchDialog.resources
+C:\Users\822457\Desktop\sait-200\Code\assignment 3\ContactManager\ContactManager\obj\Debug\ContactManager.AboutDialog.resources

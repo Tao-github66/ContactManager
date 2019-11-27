@@ -1,0 +1,40 @@
+Contact Manager System
+0.0.1 
+by Tao Lu
+
+Contact Manager System is a free application which manage two types of contacts: Faculty staffs and Students
+
+This application provides
+
+1. load a pre-existing list of contact
+2. add new contact
+- student courses can be add manually or use combo box, each course should be seperated by ","
+3. modify/update existing contacts
+4. delete a contact
+5. save the current list of contacts to a files
+6. search contact by firstname, lastname or both
+- Matched items are highlighted in upper listbox
+- Search results are listed in lower listbox, with the total number of result 
+- Double click the item in lower listbox, it original position in upperbox are highlighted
+- Use context menu to clear lower listbbox
+
+Classes structure
+
+1. Inheritance relation
+Person (Base) - Faculty (Derived) 
+Person (Base) - Student (Derived) 
+Contact (Base) - ContactFaculty (Derived) 
+Contact (Base) - ContactStudent (Derived) 
+
+2. Composition relation
+Faculty (Base) - ContactFaculty (Derived)
+Student (Base) - ContactStudent (Derived)
+
+Unit test
+- class constructor tests
+
+Demo file
+[project name]/bin/debug/contactinformation.txt
+
+Help file
+[project name]/bin/debug/about.txt
